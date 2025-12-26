@@ -8,7 +8,7 @@ arXiv:2512.20521
 
 If you use this code, please cite:
 
-'''bibtex
+```bibtex
 @misc{FavittaDWAnimation,
   author       = {A.M. Favitta},
   title        = {Supplementary material for the PhD thesis "Non-equilibrium Quantum Field Theory and Axion
