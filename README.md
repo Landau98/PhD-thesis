@@ -10,7 +10,7 @@ If you use this code, please cite:
 
 ```bibtex
 @misc{FavittaDWAnimation,
-  author       = {A.M. Favitta},
+  author       = {Amedeo M. Favitta},
   title        = {Supplementary material for the PhD thesis "Non-equilibrium Quantum Field Theory and Axion
 Electrodynamics in curved spacetimes"},
   year         = {2025},
