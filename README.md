@@ -17,7 +17,7 @@ Electrodynamics in curved spacetimes"},
   howpublished = {\url{https://github.com/Landau98/PhD-thesis}},
   note         = {Supplementary material}
 }
-
+```
 ## License
 All visual material is released under the Creative Commons Attribution 4.0
 International License (CC BY 4.0), unless otherwise stated.
