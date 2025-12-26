@@ -1,6 +1,6 @@
 # PhD-thesis
 
-This repository contains supplementary animations and visualization material
+This repository contains supplementary animations and material
 associated with the PhD thesis:
 
 **A. Favitta**, *Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes*, University of Palermo (2025).  
