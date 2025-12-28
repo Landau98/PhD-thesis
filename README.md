@@ -3,7 +3,7 @@
 This repository contains supplementary animations and material
 associated with the PhD thesis:
 
-**Amedeo M. Favitta**, *Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes*, University of Palermo (2025).arXiv:2512.20521
+**Amedeo M. Favitta**, *Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes*, University of Palermo (2025). **arXiv:2512.20521**
 
 If you use this code, please cite:
 
