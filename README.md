@@ -1,3 +1,4 @@
+<a href="https://doi.org/10.5281/zenodo.18115429"><img src="https://zenodo.org/badge/1121244388.svg" alt="DOI"></a>
 # PhD-thesis
 
 This repository contains supplementary animations and material
